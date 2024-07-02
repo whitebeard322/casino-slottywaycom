@@ -1611,3 +1611,13 @@ footer {
 table {
 	width: 100%
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.m_but2, .m_but {
+    margin: 5px; /* Optional: Adds a little space between the buttons */
+}
